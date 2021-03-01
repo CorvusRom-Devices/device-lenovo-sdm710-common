@@ -165,3 +165,6 @@ WPA_SUPPLICANT_VERSION := VER_0_8_X
 
 # Inherit from the proprietary version
 -include vendor/lenovo/sdm710-common/BoardConfigVendor.mk
+
+# Display
+TARGET_HAS_WIDE_COLOR_DISPLAY := true
