@@ -32,5 +32,11 @@
     "target_path" : "hardware/qcom-caf/sdm845-lenovo/display",
     "branch"      : "eleven",
     "remote"      : "github"
+  },
+  {
+    "repository"  : "cuzPixel/packages_apps_CameraGo",
+    "target_path" : "packages/apps/CameraGo",
+    "branch"      : "11.0",
+    "remote"      : "github"
   }
 ]
