@@ -2,7 +2,8 @@
  {
     "repository"  : "kernel_lenovo_sdm710",
     "target_path" : "kernel/lenovo/sdm710",
-    "branch"      : "11"
+    "branch"      : "11",
+    "clone-depth" : "1"
   },
   {
     "repository"  : "vendor_lenovo_sdm710-common",
@@ -17,19 +18,19 @@
   },
   {
     "repository"  : "PixelExperience/hardware_qcom-caf_sdm845_media",
-    "target_path" : "hardware/qcom-caf/sdm845-lenovo/media",
+    "target_path" : "hardware/qcom-caf/sdm845/media",
     "branch"      : "eleven",
     "remote"      : "github"
   },
   {
     "repository"  : "PixelExperience/hardware_qcom-caf_sdm845_audio",
-    "target_path" : "hardware/qcom-caf/sdm845-lenovo/audio",
+    "target_path" : "hardware/qcom-caf/sdm845/audio",
     "branch"      : "eleven",
     "remote"      : "github"
   },
   {
     "repository"  : "PixelExperience/hardware_qcom-caf_sdm845_display",
-    "target_path" : "hardware/qcom-caf/sdm845-lenovo/display",
+    "target_path" : "hardware/qcom-caf/sdm845/display",
     "branch"      : "eleven",
     "remote"      : "github"
   },
